@@ -1,17 +1,20 @@
+# Ignore gem files
 *.gem
-*.rbc
+
+# Ignore sublime workspace files
+*.sublime-workspace
+
+# Ignore bundler config
 .bundle
-.config
-.yardoc
+
+# Ignore rvm config
+.rvmrc
+
+# Ignore “Gemfile.lock”
 Gemfile.lock
-InstalledFiles
-_yardoc
-coverage
-doc/
-lib/bundler/man
+
+# Ignore bundler stubs
+bin
+
+# Ignore “pkg” folder
 pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
-tmp

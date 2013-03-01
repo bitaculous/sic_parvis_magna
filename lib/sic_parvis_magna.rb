@@ -1,4 +1,4 @@
-require "sic_parvis_magna/version"
+# encoding: utf-8
 
 module SicParvisMagna
   # Your code goes here...
