@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.date          = '2013-03-01'
   spec.licenses      = 'MIT'
 
-  spec.require_paths = 'lib'
+  spec.require_paths = ['lib']
 
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}).map { |file| File.basename file }
