@@ -9,7 +9,6 @@ require 'sic_parvis_magna/version'
 Gem::Specification.new do |spec|
   spec.name          = 'sic_parvis_magna'
   spec.summary       = 'Greatness from small beginnings.'
-  spec.description   = 'Greatness from small beginnings.'
   spec.authors       = 'Maik Kempe'
   spec.email         = 'dev@nrolla.com'
   spec.homepage      = 'https://github.com/mkempe/sic_parvis_magna'
@@ -30,5 +29,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency 'rspec',   '~> 2.13.0'
 
-  spec.required_rubygems_version = Gem::Requirement.new('>= 1.3.6')
+  spec.required_rubygems_version = Gem::Requirement.new '>= 1.3.6'
 end
