@@ -13,8 +13,5 @@
 # Ignore “Gemfile.lock”
 Gemfile.lock
 
-# Ignore bundler stubs
-bin
-
 # Ignore “pkg” folder
 pkg
