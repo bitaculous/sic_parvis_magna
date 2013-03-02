@@ -1,9 +1,6 @@
 [SIC PARVIS MAGNA](https://github.com/mkempe/sic_parvis_magna)
 ==============================================================
 
-Summary
--------
-
 “Sic Parvis Magna” - “Greatness from small beginnings”
 
 Usage
