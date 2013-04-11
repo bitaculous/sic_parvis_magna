@@ -4,10 +4,16 @@
 # Ignore sublime workspace files
 *.sublime-workspace
 
-# Ignore bundler config
+# Ignore bundler configuration
 .bundle
 
-# Ignore rvm config
+# Ignore ruby gemset configuration
+.ruby-gemset
+
+# Ignore ruby version configuration
+.ruby-version
+
+# Ignore rvm configuration
 .rvmrc
 
 # Ignore “Gemfile.lock”
