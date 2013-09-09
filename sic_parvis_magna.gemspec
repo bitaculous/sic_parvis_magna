@@ -1,5 +1,4 @@
 #!/usr/bin/env gem build
-# encoding: utf-8
 
 lib = File.expand_path('../lib', __FILE__)
 $:.unshift lib unless $:.include? lib
@@ -14,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = 'https://github.com/mkempe/sic_parvis_magna'
   spec.version       = SicParvisMagna::VERSION
   spec.platform      = Gem::Platform::RUBY
-  spec.date          = '2013-06-01'
+  spec.date          = '2013-09-09'
   spec.licenses      = 'MIT'
 
   spec.require_paths = ['lib']
@@ -27,7 +26,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency 'rake',    '~> 10.1.0'
 
-  spec.add_development_dependency 'rspec',   '~> 2.13.0'
+  spec.add_development_dependency 'rspec',   '~> 2.14.1'
 
   spec.required_rubygems_version = Gem::Requirement.new '>= 2.0.0'
 end
