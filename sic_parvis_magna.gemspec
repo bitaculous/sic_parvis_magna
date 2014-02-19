@@ -8,7 +8,7 @@ require 'sic_parvis_magna/version'
 Gem::Specification.new do |spec|
   spec.name          = 'sic_parvis_magna'
   spec.summary       = 'Greatness from small beginnings.'
-  spec.authors       = 'Maik Kempe'
+  spec.author        = 'Maik Kempe'
   spec.email         = 'dev@nrolla.com'
   spec.homepage      = 'https://github.com/mkempe/sic_parvis_magna'
   spec.version       = SicParvisMagna::VERSION
