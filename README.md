@@ -1,7 +1,7 @@
 [SIC PARVIS MAGNA](https://github.com/mkempe/sic_parvis_magna "Sic Parvis Magna")
 =================================================================================
 
-“Sic Parvis Magna” - “Greatness from small beginnings”
+**“Sic Parvis Magna” - “Greatness from small beginnings”**
 
 Usage
 -----
@@ -19,8 +19,4 @@ Code Status
 License
 -------
 
-MIT License
-
-“Sic Parvis Magna” is released under the MIT license.
-
-See “COPYING”.
+Sic Parvis Magna is released under the MIT License.
