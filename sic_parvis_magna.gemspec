@@ -13,20 +13,19 @@ Gem::Specification.new do |spec|
   spec.homepage      = 'https://github.com/mkempe/sic_parvis_magna'
   spec.version       = SicParvisMagna::VERSION
   spec.platform      = Gem::Platform::RUBY
-  spec.date          = '2013-09-09'
   spec.licenses      = 'MIT'
 
-  spec.require_paths = ['lib']
+  spec.files         = `git ls-files`.split($\)
+  spec.executables   = spec.files.grep(/^bin/).map { |file| File.basename file }
+  spec.test_files    = spec.files.grep(/^(features|spec|test)/)
 
-  spec.files         = `git ls-files`.split($/)
-  spec.executables   = spec.files.grep(%r{^bin/}).map { |file| File.basename file }
-  spec.test_files    = spec.files.grep(%r{^(features|spec|test)/})
-
-  spec.add_development_dependency 'bundler', '~> 1.3.5'
-
-  spec.add_development_dependency 'rake',    '~> 10.1.0'
-
-  spec.add_development_dependency 'rspec',   '~> 2.14.1'
+  spec.required_ruby_version = '>= 2.0.0'
 
   spec.required_rubygems_version = Gem::Requirement.new '>= 2.0.0'
+
+  spec.add_development_dependency 'bundler', '~> 1.5.3'
+
+  spec.add_development_dependency 'rake', '~> 10.1.1'
+
+  spec.add_development_dependency 'rspec', '~> 2.14.1'
 end
