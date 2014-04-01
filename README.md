@@ -13,8 +13,8 @@ Usage
 Code Status
 -----------
 
-[<img src="https://secure.travis-ci.org/mkempe/sic_parvis_magna.png" title="Travis CI Status" alt="Travis CI Status" />](http://travis-ci.org/mkempe/sic_parvis_magna)
-[<img src="https://gemnasium.com/mkempe/sic_parvis_magna.png?travis" title="Gemnasium Status" alt="Gemnasium Status" />](https://gemnasium.com/mkempe/sic_parvis_magna)
+[<img src="https://travis-ci.org/bitaculous/sic_parvis_magna.svg" title="Travis CI Status" alt="Travis CI Status" />](http://travis-ci.org/bitaculous/sic_parvis_magna)
+[<img src="https://gemnasium.com/bitaculous/sic_parvis_magna.svg" title="Gemnasium Status" alt="Gemnasium Status" />](https://gemnasium.com/bitaculous/sic_parvis_magna)
 
 License
 -------
