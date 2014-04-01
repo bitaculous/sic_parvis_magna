@@ -1,7 +1,7 @@
 [SIC PARVIS MAGNA](http://bitaculous.github.io/sic_parvis_magna "Sic Parvis Magna")
 ===================================================================================
 
-**“Sic Parvis Magna” - “Greatness from small beginnings”**
+**Sic Parvis Magna - “Greatness from small beginnings”**
 
 Usage
 -----
