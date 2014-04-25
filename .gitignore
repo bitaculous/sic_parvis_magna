@@ -16,8 +16,8 @@
 # Ignore rvm configuration
 .rvmrc
 
-# Ignore “Gemfile.lock”
+# Ignore `Gemfile.lock`
 Gemfile.lock
 
-# Ignore “pkg” folder
+# Ignore `pkg` folder
 pkg
