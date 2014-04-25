@@ -7,7 +7,7 @@ require 'sic_parvis_magna/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'sic_parvis_magna'
-  spec.summary       = '“Greatness from small beginnings.”'
+  spec.summary       = '“Greatness from small beginnings”'
   spec.author        = 'Maik Kempe'
   spec.email         = 'mkempe@bitaculous.com'
   spec.homepage      = 'http://bitaculous.github.io/sic_parvis_magna'
