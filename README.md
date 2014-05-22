@@ -3,6 +3,8 @@
 
 **“Greatness from small beginnings”**
 
+[![Travis CI Status](https://travis-ci.org/bitaculous/sic_parvis_magna.svg)](http://travis-ci.org/bitaculous/sic_parvis_magna) [![Gemnasium Status](https://gemnasium.com/bitaculous/sic_parvis_magna.svg)](https://gemnasium.com/bitaculous/sic_parvis_magna)
+
 Usage
 -----
 
@@ -10,13 +12,7 @@ Usage
 2. Give it an awesome name
 3. Create something awesome
 
-Code Status
------------
-
-[<img src="https://travis-ci.org/bitaculous/sic_parvis_magna.svg" title="Travis CI Status" alt="Travis CI Status" />](http://travis-ci.org/bitaculous/sic_parvis_magna)
-[<img src="https://gemnasium.com/bitaculous/sic_parvis_magna.svg" title="Gemnasium Status" alt="Gemnasium Status" />](https://gemnasium.com/bitaculous/sic_parvis_magna)
-
 License
 -------
 
-Sic Parvis Magna is released under the MIT License.
+Sic Parvis Magna is released under the MIT License (MIT), see [LICENSE](https://raw.githubusercontent.com/bitaculous/sic_parvis_magna/master/LICENSE "License").
