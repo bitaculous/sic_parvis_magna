@@ -1,5 +1,5 @@
-[SIC PARVIS MAGNA](http://bitaculous.github.io/sic_parvis_magna "Sic Parvis Magna")
-===================================================================================
+[Sic Parvis Magna](http://bitaculous.github.io/sic_parvis_magna "“Greatness from small beginnings”")
+====================================================================================================
 
 **“Greatness from small beginnings”**
 
@@ -15,4 +15,5 @@ Usage
 License
 -------
 
-Sic Parvis Magna is released under the MIT License (MIT), see [LICENSE](https://raw.githubusercontent.com/bitaculous/sic_parvis_magna/master/LICENSE "License").
+[Sic Parvis Magna](http://bitaculous.github.io/sic_parvis_magna "“Greatness from small beginnings”") is released under
+the MIT License (MIT), see [LICENSE](https://raw.githubusercontent.com/bitaculous/sic_parvis_magna/master/LICENSE "License").
