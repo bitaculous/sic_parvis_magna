@@ -3,7 +3,8 @@
 
 **“Greatness from small beginnings”**
 
-[![Travis CI Status](https://travis-ci.org/bitaculous/sic_parvis_magna.svg)](http://travis-ci.org/bitaculous/sic_parvis_magna) [![Gemnasium Status](https://gemnasium.com/bitaculous/sic_parvis_magna.svg)](https://gemnasium.com/bitaculous/sic_parvis_magna)
+[![Travis CI Status](https://travis-ci.org/bitaculous/sic_parvis_magna.svg)](http://travis-ci.org/bitaculous/sic_parvis_magna)
+[![Gemnasium Status](https://gemnasium.com/bitaculous/sic_parvis_magna.svg)](https://gemnasium.com/bitaculous/sic_parvis_magna)
 
 Usage
 -----
