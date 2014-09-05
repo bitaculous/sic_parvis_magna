@@ -13,7 +13,7 @@ Usage
 2. Give it an awesome name
 3. Create something awesome
 
-Bug reports
+Bug Reports
 -----------
 
 Github Issues are used for managing bug reports and feature requests. If you run into issues, please search the issues
