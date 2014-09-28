@@ -10,7 +10,7 @@ Usage
 -----
 
 1. Clone it
-2. Give it an awesome name
+2. Give it a name
 3. Create something awesome
 
 Bug Reports
