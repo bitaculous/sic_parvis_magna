@@ -25,10 +25,10 @@ License
 Sic Parvis Magna is released under the [MIT License (MIT)], see [LICENSE].
 
 [Gemnasium]: https://gemnasium.com/bitaculous/sic_parvis_magna "Sic Parvis Magna at Gemnasium"
-[Gemnasium Status]: http://img.shields.io/gemnasium/bitaculous/sic_parvis_magna.svg?style=flat "Gemnasium Status"
+[Gemnasium Status]: https://img.shields.io/gemnasium/bitaculous/sic_parvis_magna.svg?style=flat "Gemnasium Status"
 [here]: https://github.com/bitaculous/sic_parvis_magna/issues "Github Issues"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/sic_parvis_magna/master/LICENSE "License"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
-[Sic Parvis Magna]: http://bitaculous.github.io/sic_parvis_magna "“Greatness from small beginnings”"
+[Sic Parvis Magna]: https://bitaculous.github.io/sic_parvis_magna/ "“Greatness from small beginnings”"
 [Travis CI]: https://travis-ci.org/bitaculous/sic_parvis_magna "Sic Parvis Magn at Travis CI"
-[Travis CI Status]: http://img.shields.io/travis/bitaculous/sic_parvis_magna.svg?style=flat "Travis CI Status"
+[Travis CI Status]: https://img.shields.io/travis/bitaculous/sic_parvis_magna.svg?style=flat "Travis CI Status"
