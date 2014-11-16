@@ -5,14 +5,12 @@ $:.unshift lib unless $:.include? lib
 
 require 'sic_parvis_magna/version'
 
-Gem::Specification.new do |spec|
-  spec.name        = 'sic_parvis_magna'
+Gem::Specification.new 'sic_parvis_magna', SicParvisMagna::VERSION do |spec|
   spec.summary     = '“Greatness from small beginnings”'
   spec.author      = 'Maik Kempe'
   spec.email       = 'mkempe@bitaculous.com'
   spec.homepage    = 'https://bitaculous.github.io/sic_parvis_magna/'
   spec.license     = 'MIT'
-  spec.version     = SicParvisMagna::VERSION
 
   spec.files       = `git ls-files`.split($\)
   spec.executables = spec.files.grep(/^bin/).map { |file| File.basename file }
