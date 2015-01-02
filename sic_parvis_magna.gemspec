@@ -6,15 +6,15 @@ $:.unshift lib unless $:.include? lib
 require 'sic_parvis_magna/version'
 
 Gem::Specification.new 'sic_parvis_magna', SicParvisMagna::VERSION do |spec|
-  spec.summary     = '“Greatness from small beginnings”'
-  spec.author      = 'Maik Kempe'
-  spec.email       = 'mkempe@bitaculous.com'
-  spec.homepage    = 'https://bitaculous.github.io/sic_parvis_magna/'
-  spec.license     = 'MIT'
-
-  spec.files       = `git ls-files`.split($\)
-  spec.executables = spec.files.grep(/^bin/).map { |file| File.basename file }
-  spec.test_files  = spec.files.grep(/^(features|spec|test)/)
+  spec.summary          = '“Greatness from small beginnings”'
+  spec.author           = 'Maik Kempe'
+  spec.email            = 'mkempe@bitaculous.com'
+  spec.homepage         = 'https://bitaculous.github.io/sic_parvis_magna/'
+  spec.license          = 'MIT'
+  spec.files            = `git ls-files`.split($\)
+  spec.executables      = spec.files.grep(/^bin/).map { |file| File.basename file }
+  spec.test_files       = spec.files.grep(/^(features|spec|test)/)
+  spec.extra_rdoc_files = ['LICENSE', 'README.md']
 
   spec.required_ruby_version = '~> 2.1'
 
