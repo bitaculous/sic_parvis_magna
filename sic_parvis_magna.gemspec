@@ -13,16 +13,12 @@ Gem::Specification.new 'sic_parvis_magna', SicParvisMagna::VERSION do |spec|
   spec.license          = 'MIT'
   spec.files            = `git ls-files`.split($\)
   spec.executables      = spec.files.grep(/^bin/).map { |file| File.basename file }
-  spec.test_files       = spec.files.grep(/^(features|spec|test)/)
   spec.extra_rdoc_files = ['LICENSE', 'README.md']
 
-  spec.required_ruby_version = '~> 2.1'
-
+  spec.required_ruby_version     = '~> 2.1'
   spec.required_rubygems_version = '~> 2.4'
 
   spec.add_development_dependency 'bundler', '~> 1.7'
-
   spec.add_development_dependency 'rake', '~> 10.4.2'
-
   spec.add_development_dependency 'rspec', '~> 3.1.0'
 end
