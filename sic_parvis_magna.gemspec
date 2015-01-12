@@ -19,6 +19,6 @@ Gem::Specification.new 'sic_parvis_magna', SicParvisMagna::VERSION do |spec|
   spec.required_rubygems_version = '~> 2.4'
 
   spec.add_development_dependency 'bundler', '~> 1.7'
-  spec.add_development_dependency 'rake', '~> 10.4.2'
-  spec.add_development_dependency 'rspec', '~> 3.1.0'
+  spec.add_development_dependency 'rake',    '~> 10.4.2'
+  spec.add_development_dependency 'rspec',   '~> 3.1.0'
 end
