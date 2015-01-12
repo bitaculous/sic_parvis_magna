@@ -30,5 +30,5 @@ Sic Parvis Magna is released under the [MIT License (MIT)], see [LICENSE].
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/sic_parvis_magna/master/LICENSE "License"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
 [Sic Parvis Magna]: https://bitaculous.github.io/sic_parvis_magna/ "“Greatness from small beginnings”"
-[Travis CI]: https://travis-ci.org/bitaculous/sic_parvis_magna "Sic Parvis Magn at Travis CI"
+[Travis CI]: https://travis-ci.org/bitaculous/sic_parvis_magna "Sic Parvis Magna at Travis CI"
 [Travis CI Status]: https://img.shields.io/travis/bitaculous/sic_parvis_magna.svg?style=flat "Travis CI Status"
