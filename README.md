@@ -1,10 +1,9 @@
 [Sic Parvis Magna]
 ==================
 
-**“Greatness from small beginnings”**
+[![Travis CI Status][Travis CI Status]][Travis CI] [![Gemnasium Status][Gemnasium Status]][Gemnasium]
 
-[![Travis CI Status][Travis CI Status]][Travis CI]
-[![Gemnasium Status][Gemnasium Status]][Gemnasium]
+**“Greatness from small beginnings”**
 
 Usage
 -----
@@ -12,6 +11,23 @@ Usage
 1. Clone it
 2. Give it a name
 3. Create something awesome
+
+Development
+-----------
+
+### Specs
+
+Use the `rspec` command to run the specs:
+
+```
+$ rspec
+```
+
+or via [Guard]:
+
+```
+$ guard -g spec
+```
 
 Bug Reports
 -----------
@@ -26,6 +42,7 @@ Sic Parvis Magna is released under the [MIT License (MIT)], see [LICENSE].
 
 [Gemnasium]: https://gemnasium.com/bitaculous/sic_parvis_magna "Sic Parvis Magna at Gemnasium"
 [Gemnasium Status]: https://img.shields.io/gemnasium/bitaculous/sic_parvis_magna.svg?style=flat "Gemnasium Status"
+[Guard]: http://guardgem.org "A command line tool to easily handle events on file system modifications."
 [here]: https://github.com/bitaculous/sic_parvis_magna/issues "Github Issues"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/sic_parvis_magna/master/LICENSE "License"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
