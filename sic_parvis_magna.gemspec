@@ -11,8 +11,7 @@ Gem::Specification.new 'sic_parvis_magna', SicParvisMagna::VERSION do |spec|
   spec.email            = 'mkempe@bitaculous.com'
   spec.homepage         = 'https://bitaculous.github.io/sic_parvis_magna/'
   spec.license          = 'MIT'
-  spec.files            = `git ls-files`.split($\)
-  spec.executables      = spec.files.grep(/^bin/).map { |file| File.basename file }
+  spec.files            = Dir['{lib}/**/*', 'LICENSE', 'README.md']
   spec.extra_rdoc_files = ['LICENSE', 'README.md']
 
   spec.required_ruby_version     = '~> 2.1'
