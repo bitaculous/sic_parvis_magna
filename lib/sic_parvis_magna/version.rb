@@ -1,3 +1,3 @@
-module SicParvisMagna
+module SicParvisMagna # :nodoc:
   VERSION = '0.0.1'
 end

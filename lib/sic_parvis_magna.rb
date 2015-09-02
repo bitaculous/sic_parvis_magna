@@ -1,3 +1,3 @@
-module SicParvisMagna
+module SicParvisMagna # :nodoc:
   # Your code goes here...
 end

@@ -1,7 +1,8 @@
 [Sic Parvis Magna]
 ==================
 
-[![Travis CI Status][Travis CI Status]][Travis CI] [![Gemnasium Status][Gemnasium Status]][Gemnasium]
+[![Travis CI Status][Travis CI Status]][Travis CI]
+[![Gemnasium Status][Gemnasium Status]][Gemnasium]
 
 **“Greatness from small beginnings”**
 
@@ -15,7 +16,7 @@ Usage
 Development
 -----------
 
-### Specs
+### Run Specs
 
 Use the `rspec` command to run the specs:
 
@@ -28,6 +29,12 @@ or via [Guard]:
 ```
 $ guard -g spec
 ```
+
+### Run [RuboCop]
+
+Run `rubocop`.
+
+To run Specs and RuboCop altogether, run `rake`.
 
 Bug Reports
 -----------
@@ -46,6 +53,7 @@ Sic Parvis Magna is released under the [MIT License (MIT)], see [LICENSE].
 [here]: https://github.com/bitaculous/sic_parvis_magna/issues "Github Issues"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/sic_parvis_magna/master/LICENSE "License"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
+[RuboCop]: https://github.com/bbatsov/rubocop "A Ruby static code analyzer, based on the community Ruby style guide."
 [Sic Parvis Magna]: https://bitaculous.github.io/sic_parvis_magna/ "“Greatness from small beginnings”"
 [Travis CI]: https://travis-ci.org/bitaculous/sic_parvis_magna "Sic Parvis Magna at Travis CI"
 [Travis CI Status]: https://img.shields.io/travis/bitaculous/sic_parvis_magna.svg?style=flat "Travis CI Status"
