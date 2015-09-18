@@ -13,16 +13,18 @@ end
 group :test do
   # --- Code Analysis ---
 
-  gem 'rubocop',       '~> 0.33.0', require: false
-  gem 'rubocop-rspec', '~> 1.3.0',  require: false
-
-  # --- Formatter ---
-
-  gem 'nyan-cat-formatter', '~> 0.11', require: false
+  gem 'rubocop',       '~> 0.34.1', require: false
+  gem 'rubocop-rspec', '~> 1.3.1',  require: false
 end
 
 group :misc do
+  # --- Formatter ---
+
+  gem 'nyan-cat-formatter', '~> 0.11', require: false
+
+  # --- OS X ---
+
   gem 'growl', '~> 1.0.3', require: RUBY_PLATFORM.include?('darwin') && 'growl'
 
-  gem 'rb-fsevent', '~> 0.9.5', require: RUBY_PLATFORM.include?('darwin') && 'rb-fsevent'
+  gem 'rb-fsevent', '~> 0.9.6', require: RUBY_PLATFORM.include?('darwin') && 'rb-fsevent'
 end
