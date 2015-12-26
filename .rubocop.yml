@@ -9,12 +9,12 @@ require: rubocop-rspec
 # =============
 
 Style/AsciiComments:
-  Description: 'Use only ascii symbols in comments.'
+  Description: 'Use only ASCII symbols in comments.'
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#english-comments'
   Enabled: false
 
 Style/ExtraSpacing:
-  Description: 'This cop checks for extra/unnecessary whitespace.'
+  Description: 'This cop checks for extra/unnecessary whitespaces.'
   Exclude:
     - Guardfile
 
