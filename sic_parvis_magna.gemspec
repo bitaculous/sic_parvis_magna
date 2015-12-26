@@ -11,7 +11,7 @@ Gem::Specification.new 'sic_parvis_magna', SicParvisMagna::VERSION do |spec|
   spec.files            = Dir['{lib,spec}/**/*', 'LICENSE', 'README.md']
   spec.extra_rdoc_files = ['LICENSE', 'README.md']
 
-  spec.required_ruby_version     = '~> 2.1'
+  spec.required_ruby_version     = '~> 2.2'
   spec.required_rubygems_version = '~> 2.4'
 
   spec.add_development_dependency 'bundler', '~> 1.10'
