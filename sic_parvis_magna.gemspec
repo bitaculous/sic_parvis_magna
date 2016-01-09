@@ -1,6 +1,6 @@
 #!/usr/bin/env gem build
 
-require File.expand_path '../lib/sic_parvis_magna/version', __FILE__
+require_relative 'lib/sic_parvis_magna/version'
 
 Gem::Specification.new 'sic_parvis_magna', SicParvisMagna::VERSION do |spec|
   spec.summary          = '“Greatness from small beginnings”'
