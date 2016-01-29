@@ -1,25 +1,33 @@
 # This is the configuration used to check the `SicParvisMagna` source code.
 
-# Custom Cops
-# ===========
+# === Custom Cops ===
 
 require: rubocop-rspec
 
-# Configuration
-# =============
+# === Configuration ===
+
+# --- Linting ---
 
 Lint/UnusedBlockArgument:
   Description: 'Checks for unused block arguments.'
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#underscore-unused-vars'
   Enabled: false
 
+# --- Metrics ---
+
 Metrics/LineLength:
   Description: 'Limit lines to 120 characters with 10 characters as buffer.'
   Max: 130
 
+# --- Style ---
+
 Style/AsciiComments:
   Description: 'Use only ASCII symbols in comments.'
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#english-comments'
+  Enabled: false
+
+Style/CommentIndentation:
+  Description: 'Indentation of comments.'
   Enabled: false
 
 Style/ExtraSpacing:
