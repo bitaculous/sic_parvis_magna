@@ -6,16 +6,22 @@ source 'https://rubygems.org'
 # dependencies, and development dependencies will be added by default to the `:development` group.
 gemspec
 
+# === Development ===
+
 group :development do
   gem 'guard-rspec', '~> 4.6.4', require: false
 end
 
+# === Test ===
+
 group :test do
   # --- Code Analysis ---
 
-  gem 'rubocop',       '~> 0.35.1', require: false
-  gem 'rubocop-rspec', '~> 1.3.1',  require: false
+  gem 'rubocop',       '~> 0.37.2', require: false
+  gem 'rubocop-rspec', '~> 1.4.0',  require: false
 end
+
+# === Misc ===
 
 group :misc do
   # --- Formatter ---
